@@ -1,2 +1,2 @@
 # pic-server
-picture sever
+picture server
